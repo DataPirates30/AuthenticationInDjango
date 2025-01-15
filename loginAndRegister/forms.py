@@ -10,3 +10,7 @@ class RegistrationForm(UserCreationForm):
         fields = ['username', 'email', 'password1', 'password2']
 
 
+
+    
+
+
